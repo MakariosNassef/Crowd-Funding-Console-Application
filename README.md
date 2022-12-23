@@ -1,7 +1,6 @@
 # Crowd-Funding-Console-Application
 using python programming language basic syntax
-/n
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+<br />[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 crowd funding is a small console app  project using **python**  to start fundraise it contain features of Authentication system registeration , login and  project fundraise comapign that includes all **CRUD** operations
 
@@ -14,8 +13,7 @@ crowd funding is a small console app  project using **python**  to start fundrai
 
 ### Prequisites
 Pycharm or VS code
-/n
-Python3
+<br />Python3
 
 
 ### ScreenShot from the Application
