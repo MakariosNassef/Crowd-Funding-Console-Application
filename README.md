@@ -21,4 +21,4 @@ Pycharm or VS code
 ![ScreenShot](https://i.ibb.co/Zz6zw2S/Screenshot-from-2022-12-23-06-50-02.png)
 
 LinkedIn link below:
-
+https://www.linkedin.com/in/makarios-nassef/
