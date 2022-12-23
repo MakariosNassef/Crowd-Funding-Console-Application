@@ -16,9 +16,9 @@ Pycharm or VS code
 Python3
 
 
-
-![ScreenShot_20220308021829](https://user-images.githubusercontent.com/26310663/157143418-1a10ad0c-f5ab-4804-ba8f-000fa02e7fc0.png)
-![ScreenShot_20220308021727](https://i.ibb.co/Zz6zw2S/Screenshot-from-2022-12-23-06-50-02.png)
+### ScreenShot from the Application
+![ScreenShot](https://i.ibb.co/nwsFPS3/Screenshot-from-2022-12-23-06-46-17.png)
+![ScreenShot](https://i.ibb.co/Zz6zw2S/Screenshot-from-2022-12-23-06-50-02.png)
 
 LinkedIn link below:
 
