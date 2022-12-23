@@ -21,6 +21,7 @@ crowd funding is a small console app  project using **python**  to start fundrai
 - User can delete his own project
 - User can search for a project using date (bonus)
 <br />
+
 ### Prequisites
 Pycharm or VS code
 <br />Python3
